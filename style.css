@@ -1,0 +1,8 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.resize {
+    width: auto;
+    height: 500px;
+}
